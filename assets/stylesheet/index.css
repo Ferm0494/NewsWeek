@@ -139,15 +139,15 @@ i {
 }
 
 .fa-facebook-official:hover {
-  color: #4267b2 ;
+  color: #4267b2;
 }
 
 .fa-twitter:hover {
-  color: #1da1f2 ;
+  color: #1da1f2;
 }
 
 .fa-instagram:hover {
-  color: white ;
+  color: white;
   background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285aeb 90%);
 }
 
@@ -156,7 +156,7 @@ i {
 }
 
 .fa-linkedin:hover {
-  color: #0e76a8 ;
+  color: #0e76a8;
 }
 
 .z {
