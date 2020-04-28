@@ -2,11 +2,11 @@
 
 > Clone Main Page of NewsWeek
 
-![screenshot](./assets/imgs/1.png)
-![screenshot](./assets/imgs/2.png)
-![screenshot](./assets/imgs/3.png)
-![screenshot](./assets/imgs/4.png)
-![screenshot](./assets/imgs/5.png)
+![screenshot](./assets/img/1.png)
+![screenshot](./assets/img/2.png)
+![screenshot](./assets/img/3.png)
+![screenshot](./assets/img/4.png)
+![screenshot](./assets/img/5.png)
 
 
 
