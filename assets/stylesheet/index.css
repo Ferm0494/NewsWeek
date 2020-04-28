@@ -89,16 +89,16 @@ i {
 
 .opinionssection a:hover {
   color: red !important;
-  text-decoration: none !important;
+  text-decoration: none;
   border-bottom: none;
 }
 
 .border-solidred {
-  border-top: 5px solid red !important;
+  border-top: 5px solid red;
 }
 
 .solidblue {
-  border-top: 5px solid #1c87fb !important;
+  border-top: 5px solid #1c87fb;
 }
 
 .tube {
@@ -109,7 +109,7 @@ i {
 }
 
 .fontsized {
-  font-size: 1.5rem !important;
+  font-size: 1.5rem;
 }
 
 .main-img {
@@ -139,24 +139,24 @@ i {
 }
 
 .fa-facebook-official:hover {
-  color: #4267b2 !important;
+  color: #4267b2 ;
 }
 
 .fa-twitter:hover {
-  color: #1da1f2 !important;
+  color: #1da1f2 ;
 }
 
 .fa-instagram:hover {
-  color: white !important;
+  color: white ;
   background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285aeb 90%);
 }
 
 .fa-tumblr:hover {
-  color: #34526f !important;
+  color: #34526f;
 }
 
 .fa-linkedin:hover {
-  color: #0e76a8 !important;
+  color: #0e76a8 ;
 }
 
 .z {
