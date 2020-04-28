@@ -7,7 +7,6 @@ header:first-child {
     
 }
 
-
 .auth {
     font-size: 1.5vh;
     height: auto;
@@ -30,8 +29,23 @@ nav ul a {
     color: #000
 }
 
+footer ul li{
+    line-height: 0.1;
+    font-size: 12px;
+    border-right:1px solid #dee2e6
+}
+
 nav ul li:last-child {
     border-right: none
+}
+
+.option a {
+    color: red;
+}
+
+header a:hover{
+    text-decoration: none ;
+    border-bottom: 2px solid red;
 }
 
 nav ul a:hover {
@@ -47,21 +61,12 @@ i {
     color: gray;
 }
 
-header a:hover{
-    text-decoration: none ;
-    border-bottom: 2px solid red;
-}
-
 .option {
     background-color: #eae8e9;
     padding: 5px 10px;
     position: absolute;
     bottom: 0;
     left: 30;
-}
-
-.option a {
-    color: red;
 }
 
 .fixed-img {
@@ -113,8 +118,6 @@ header a:hover{
 
 .media-header{
     font-size: 1em;
-   
-
 }
 
 .subs figure:first-child{
@@ -124,7 +127,6 @@ header a:hover{
 .subs figure:nth-child(2){
     transform: translate(-44px, 12px);
 }
-
 
 .cover-img{
     width:700px;
@@ -159,15 +161,9 @@ header a:hover{
     color:#0e76a8 ! important;
 }
 
-footer ul li{
-    line-height: 0.1;
-    font-size: 12px;
-    border-right:1px solid #dee2e6
-}
 .z{
     z-index: -1 ! important;
 }
-
 
 #vs {
     background-color: black;
@@ -209,4 +205,3 @@ footer ul li{
         
     }
 }
-
