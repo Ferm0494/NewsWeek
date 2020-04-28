@@ -17,13 +17,13 @@ nav ul {
 }
 
 nav ul li {
-  flex-grow: 1;
+    flex-grow:1;
   border-right: 1px solid gray;
   text-align: center;
 }
 
 nav ul a {
-  font-size: 1.7rem;
+  font-size: 1rem;
   font-weight: bold;
   color: #000;
 }
@@ -54,6 +54,7 @@ nav ul a:hover {
 input {
   width: 4rem;
   border: none;
+  font-size: 1rem;
 }
 
 i {
@@ -80,7 +81,7 @@ i {
   right: 0;
   content: "";
   display: block;
-  width: 25%;
+  width: 3%;
   background-color: #f72210;
   border-left: 0.75rem solid white;
   border-top: 0.8125rem solid red;
@@ -179,7 +180,7 @@ i {
 
 @media (max-width: 992px) {
   .fixed-img {
-    width: 5em;
+    width: 7em;
   }
 
   .cover-img {
@@ -191,6 +192,10 @@ i {
 @media (max-width: 768px) {
   .main-img {
     height: 30em;
+  }
+
+  .buttons a{
+      font-size: 0.8em;
   }
 
   .cover-img {

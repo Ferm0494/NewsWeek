@@ -7,6 +7,8 @@
 ![screenshot](./assets/img/3.png)
 ![screenshot](./assets/img/4.png)
 ![screenshot](./assets/img/5.png)
+![screenshot](./assets/img/6.png)
+![screenshot](./assets/img/7.png)
 
 
 
