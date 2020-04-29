@@ -21,7 +21,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/Ferm0494/NewsWeek/fb47aba7402106c9cfa404fa843b9f0ae5c02d8a/index.html)
+[Live Demo Link](https://rawcdn.githack.com/Ferm0494/NewsWeek/e535de5125ed6a24d67a92bb04ed56cf5898701c/index.html)
 
 ## Getting Started
     Feel free to resize the website :)
